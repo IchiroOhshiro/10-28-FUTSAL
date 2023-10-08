@@ -30,6 +30,11 @@ main, .information {
   display: flex;
 }
 
+.container3 {
+  display: flex;
+}
+
+
 .previous {
   padding: 0 8px 0;
 }
